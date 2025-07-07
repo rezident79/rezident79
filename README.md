@@ -1,6 +1,4 @@
-
-
-<!---
-rezident79/rezident79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+greetings,
+I am just a developer on a learning journey.
+cheers
+rezident79
